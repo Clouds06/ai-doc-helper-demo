@@ -5,7 +5,7 @@
 
   export default defineConfig({
     plugins: [react()],
-    base: "https://Clouds06.github.io/ai-doc-helper-demo",
+    base: "./",
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
       alias: {
